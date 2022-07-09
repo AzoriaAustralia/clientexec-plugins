@@ -12,12 +12,10 @@
 
 ---
 
-Selection of improved plugins for Clientexec.
+###### Synergy Wholesale Registrar Plugin
+
+Copy all files directly into ```/plugins/registrars/synergywholesale``` of you clientexec installation directory.
 
 
 
-###### Registrars
-
-- Synergy Wholesale
-  
-  - 8/7/2022 Added import TLD function.
+Additions and [issues](https://github.com/azoriaaustralia/clientexec-plugins/issues) welcome.
