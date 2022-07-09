@@ -79,10 +79,9 @@ class PluginSynergywholesale extends RegistrarPlugin
     }
 
     /**
-    * It makes a request to the API, loops through the response, and returns an array of TLDs and their
-    * prices
+    * Get all tlds from synergy wholsale, assign to array and return to clientexec
     *
-    * Fixed By Expology @ https://azoria.au
+    * Added By Expology @ https://azoria.au
     * 
     * @return An array of TLDs and their prices.
     */
