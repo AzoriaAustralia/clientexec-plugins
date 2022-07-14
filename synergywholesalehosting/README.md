@@ -12,8 +12,8 @@
 
 ---
 
-###### Synergy Wholesale Registrar Plugin
+###### Synergy Wholesale Hosting Plugin
 
-Copy all files directly into ```/plugins/registrars/synergywholesale``` of you clientexec installation directory, overwriting the current files.
+Copy the entire "synergywholesalehosting" folder directly into ```/plugins/server``` of you clientexec installation directory.
 
 Additions and [issues](https://github.com/azoriaaustralia/clientexec-plugins/issues) welcome.
